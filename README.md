@@ -5,7 +5,7 @@
 
 ---
 
-## **📂 HTML Basics to Advanced – Full Folder Structure**  
+## **HTML Basics to Advanced – Full Folder Structure**  
 
 ```
 html-basics-to-advanced/
@@ -230,5 +230,3 @@ An HTML document follows a standard structure:
 - Essential for web development.  
 - Works with CSS for styling and JavaScript for interactivity.  
 - Used in building modern web applications.  
-
-This introduction gives a foundational understanding of HTML. The next step is learning its **structure and syntax** in detail.
